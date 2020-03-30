@@ -1,8 +1,8 @@
 {
   "insurance": [
-    { "id": 12345678, "title": "Insurance 1 is cancelled" },
-    { "id": 12345677, "title": "Insurance 2 is extended" },
-    { "id": 12345666, "title": "Insurance 3 expiring" }
+    { "customerid": 12345678, "title": "Insurance 1 is cancelled" },
+    { "customerid": 12345677, "title": "Insurance 2 is extended" },
+    { "customerid": 12345666, "title": "Insurance 3 expiring" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
